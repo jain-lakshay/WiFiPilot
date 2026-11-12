@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleExecutable</key>
+    <string>WiFiPilot</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.wifipilot.app</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>WiFiPilot</string>
+    <key>CFBundleDisplayName</key>
+    <string>WiFiPilot</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>WiFiPilot reads Wi-Fi network names, signal strength and scan results, which macOS only exposes to apps with Location Services permission. Your location is never stored, transmitted or used for anything else.</string>
+    <key>NSLocationUsageDescription</key>
+    <string>WiFiPilot needs Location Services to show Wi-Fi network names and scan results. Nothing leaves your Mac.</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>WiFiPilot. All monitoring data stays on this Mac.</string>
+</dict>
+</plist>
